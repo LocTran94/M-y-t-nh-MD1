@@ -13,7 +13,7 @@ function thuchien() {
     if ( c == "2"){
     d = a - b;
     }
-if ( c == "3"){
+      if( c == "3"){
     d = a * b;
 }
     if ( c == "4"){
