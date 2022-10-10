@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6c2aaaf-9b95-4e4d-a7b3-b946a2d0a05b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/nhap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/main2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -62,7 +62,7 @@
       <workItem from="1665246118636" duration="5413000" />
       <workItem from="1665285866375" duration="5688000" />
       <workItem from="1665370463868" duration="7953000" />
-      <workItem from="1665384276883" duration="1513000" />
+      <workItem from="1665384276883" duration="3521000" />
     </task>
     <servers />
   </component>
