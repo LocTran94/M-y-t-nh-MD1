@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6c2aaaf-9b95-4e4d-a7b3-b946a2d0a05b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tong1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nhap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MÁY TINH.html" beforeDir="false" afterPath="$PROJECT_DIR$/MÁY TINH.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MÁY TÍNH.js" beforeDir="false" afterPath="$PROJECT_DIR$/MÁY TÍNH.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,11 @@
       <workItem from="1665384276883" duration="5393000" />
       <workItem from="1665391778158" duration="148000" />
       <workItem from="1665407236988" duration="234000" />
-      <workItem from="1665456665698" duration="11041000" />
+      <workItem from="1665456665698" duration="13232000" />
+      <workItem from="1665495386248" duration="1704000" />
+      <workItem from="1665537594608" duration="1193000" />
+      <workItem from="1665541706641" duration="15000" />
+      <workItem from="1665546161107" duration="11714000" />
     </task>
     <servers />
   </component>

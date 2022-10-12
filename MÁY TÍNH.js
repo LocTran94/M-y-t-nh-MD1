@@ -47,40 +47,43 @@ switch (browser){
 //alert(ok);
 
 
+// bài máy tính nâng cao
+// let result = '';
+//
+// function xuLyDuLieu(input) {
+//     let a = document.getElementById(input).value;
+//     result += a;
+//     document.getElementById('result').innerHTML = result;
+// }
+//
+//
+// function xuLyKetQua() {
+//     let ketQua = eval(result);
+//     document.getElementById('result').innerHTML = ketQua;
+//     result = ketQua;
+// }
+//
+//
+// function xoa() {
+//     document.getElementById('result').innerHTML = '0';
+//     result = '';
+// }
 
 
-/*let a = prompt("nhập a")
+let b = document.getElementById('1');
 
-if (a <12){
-    alert('chém gió')
+
+    b.style.position = 'relative'
+    b.style.left = '0px';
+
+
+
+function dichuyenphai() {
+    b.style.left = parseInt(b.style.left) + 10 + 'px';
+
 }
-else  if (a > 12){
-    alert('ngu')
-}
-else {
-    alert('đúng rồi')
-}
 
- */
+function dichuyentrai() {
+    b.style.left = parseInt(b.style.left) - 10 + 'px';
 
-
-let result = '';
-
-function xuLyDuLieu(input) {
-    let a = document.getElementById(input).value;
-    result += a;
-    document.getElementById('result').innerHTML = result;
-}
-
-
-function xuLyKetQua() {
-    let ketQua = eval(result);
-    document.getElementById('result').innerHTML = ketQua;
-    result = ketQua;
-}
-
-
-function xoa() {
-    document.getElementById('result').innerHTML = '0';
-    result = '';
 }
